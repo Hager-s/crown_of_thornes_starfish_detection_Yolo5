@@ -1,7 +1,7 @@
 Crown-starfish-detection
 =======================================
 ### Dataset
-The Dataset was acquired from 17 YouTube, at the end we got 725 images.And using data augmentation we increased the number of images to 2548. 
+The Dataset was acquired from 17 YouTube videos, at the end we got 725 images.And using data augmentation we increased the number of images to 2548. 
 ### Pipline
 - Image annotation
 - Image Preprocessing: we used  white balance enhancement technique 
